@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir Aktar</h1>
-<h3 align="center">Mechatronics Engineering / Native Mobile Developer</h3>
+<h3 align="center">Mechatronics Engineering / DevOps Engineer </h3>
 
 - 📝 I regularly write articles on [https://medium.com/@abdulkadiraktar](https://medium.com/@abdulkadiraktar)
 
